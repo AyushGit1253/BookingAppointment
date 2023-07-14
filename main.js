@@ -36,7 +36,7 @@ form.addEventListener('submit',function(e){
     email=' '
     phone=' '
     //userList.innerHTML=userList.innerHTML+<li> user.email +user.name+user.phone</li>
-           //     OR
+          
     
 })
 deleteUser.addEventListener('click',function(e){
